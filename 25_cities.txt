@@ -1,0 +1,26 @@
+cities,longitude,latitude
+Shanghai,121.47,31.23
+Bombay,72.82,18.96
+Karachi,67.01,24.86
+Buenos Aires,-58.37,-34.61
+Delhi,77.21,28.67
+Istanbul,29,41.1
+Manila,120.97,14.62
+Sao Paulo,-46.63,-23.53
+Moscow,37.62,55.75
+Dhaka,90.39,23.7
+Soul,126.99,37.56
+Lagos,3.35,6.5
+Kinshasa,15.32,-4.31
+Tokyo,139.77,35.67
+Mexico City,-99.14,19.43
+Jakarta,106.83,-6.18
+New York,-73.94,40.67
+Tehran,51.43,35.67
+Cairo,31.25,30.06
+Lima,-77.05,-12.07
+Peking,116.4,39.93
+London,-0.1,51.52
+Bogota,-74.09,4.63
+Lahore,74.35,31.56
+Rio de Janeiro,-43.2,-22.91
